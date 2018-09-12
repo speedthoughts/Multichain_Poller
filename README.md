@@ -1,4 +1,3 @@
-MultiChain Poller
 MultiChain Poller keeps on polling MultiChain for blocks and any new block. Further, it identifies asset-based transactions in the blocks as per the asset name you have provided in the configuration file and extracts the data information (in Hex format and converts to ASCII) 
 This software is written with an inquisitiveness to understand Multichain behavior and more specifically to make use of Blockchain as transaction backbone with data processing occurring out of Multichain. 
 MultiChain Poller is still under development, so it may break!!!
